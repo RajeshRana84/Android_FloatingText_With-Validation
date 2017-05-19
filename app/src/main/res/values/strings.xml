@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFloatingHintEditText</string>
+
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up !!</string>
+    <string name="err_msg_name">Please enter a Name</string>
+    <string name="err_msg_required">Valid Input Required</string>
+    <string name="err_msg_email">Please enter a Valid Email</string>
+    <string name="err_msg_password">Enter a Password</string>
+
+</resources>
